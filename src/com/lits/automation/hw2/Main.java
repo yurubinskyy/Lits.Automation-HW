@@ -1,4 +1,4 @@
-package com.lits.automation;
+package com.lits.automation.hw2;
 
 public class Main {
 
