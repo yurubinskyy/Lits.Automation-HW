@@ -1,4 +1,4 @@
-package main.java.com.lits.automation.hw8;
+package com.lits.automation.hw8;
 
 import java.io.Serializable;
 
